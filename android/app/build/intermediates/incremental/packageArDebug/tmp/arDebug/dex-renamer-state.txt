@@ -1,0 +1,19 @@
+#Wed Jun 26 09:47:32 BST 2019
+path.1=classes.dex
+path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/home/spencermensah/Documents/Projects/ViroARSampleApp/android/app/build/intermediates/dex/arDebug/mergeLibDexArDebug/out
+base.4=/home/spencermensah/Documents/Projects/ViroARSampleApp/android/app/build/intermediates/dex/arDebug/mergeLibDexArDebug/out
+base.3=/home/spencermensah/Documents/Projects/ViroARSampleApp/android/app/build/intermediates/dex/arDebug/mergeLibDexArDebug/out
+base.2=/home/spencermensah/Documents/Projects/ViroARSampleApp/android/app/build/intermediates/dex/arDebug/mergeLibDexArDebug/out
+base.1=/home/spencermensah/Documents/Projects/ViroARSampleApp/android/app/build/intermediates/dex/arDebug/mergeProjectDexArDebug/out
+base.0=/home/spencermensah/Documents/Projects/ViroARSampleApp/android/app/build/intermediates/dex/arDebug/mergeExtDexArDebug/out
+path.5=classes_3.dex
+path.4=classes_2.dex
+path.3=classes_1.dex
+path.2=classes_0.dex

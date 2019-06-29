@@ -1,0 +1,7 @@
+#Sat Jun 29 02:06:24 BST 2019
+base.0=/home/spencermensah/Documents/Projects/ViroARSampleApp/android/app/build/intermediates/dex/arRelease/mergeDexArRelease/out
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/spencermensah/Documents/Projects/ViroARSampleApp/android/app/build/intermediates/dex/arRelease/mergeDexArRelease/out
